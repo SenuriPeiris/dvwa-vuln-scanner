@@ -26,7 +26,7 @@ It automatically crawls all pages in DVWA, logs in, refreshes the session if it 
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/dvwa-auto-scanner.git
+git clone https://github.com/SenuriPeiris/dvwa-auto-scanner.git
 cd dvwa-auto-scanner
 ```
 
