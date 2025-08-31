@@ -43,23 +43,19 @@ pip install -r requirements.txt
 Usage
 
 Update configuration in dvwa_scanner.py:
-
+```bash
 BASE_URL = "http://localhost"
 USERNAME = "admin"
 PASSWORD = "password"
-
+```
 1.Run the scanner:
-
+```bash
 python3 dvwa_scanner.py
-
+```
 2.Open the generated dashboard:
-
+```bash
 auto_vuln_dashboard.html
-
+```
 Explore risk scores, SQLi/XSS payloads, and missing headers.
 
 Export filtered results as CSV using the “Export Filtered CSV” button.
-
-
-
-Create a Python virtual environment (optional but recommended):
