@@ -29,8 +29,9 @@ It automatically crawls all pages in DVWA, logs in, refreshes the session if it 
 git clone https://github.com/your-username/dvwa-auto-scanner.git
 cd dvwa-auto-scanner
 ```
+```bash
 2.Create a Python virtual environment (optional but recommended):
-
+```
 python3 -m venv venv
 source venv/bin/activate   # Linux/Mac
 venv\Scripts\activate      # Windows
